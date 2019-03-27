@@ -1,2 +1,2 @@
 # task_manager_learning_php
-Я изучаю php и создаю проект Online-Блакнот (task_manager)
+Я изучаю php, создавая проект Online-WEB-Блакнот (task_manager)
